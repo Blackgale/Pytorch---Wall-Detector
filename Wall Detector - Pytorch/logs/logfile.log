@@ -1,0 +1,46 @@
+2023-06-24 14:59:53,122 [INFO] camera:: Initializing camera class with 30 fps and video_source=0
+2023-06-24 14:59:57,550 [DEBUG] camera:: Starting thread
+2023-06-24 14:59:57,551 [DEBUG] camera:: Observation started
+2023-06-24 14:59:57,551 [INFO] camera:: Thread started
+2023-06-24 14:59:57,557 [DEBUG] __main__:: Starting server
+2023-06-24 15:00:53,395 [DEBUG] __main__:: Requested /
+2023-06-24 15:00:55,408 [DEBUG] __main__:: Requested last image
+2023-06-24 15:00:55,409 [DEBUG] __main__:: No last image
+2023-06-24 15:00:58,425 [DEBUG] __main__:: Requested capture
+2023-06-24 15:01:00,149 [DEBUG] __main__:: Requested /
+2023-06-24 15:01:00,196 [DEBUG] __main__:: Requested last image
+2023-06-24 15:01:43,780 [DEBUG] __main__:: Requested /
+2023-06-24 15:01:43,861 [DEBUG] __main__:: Requested last image
+2023-06-24 15:01:45,616 [DEBUG] __main__:: Requested capture
+2023-06-24 15:01:46,043 [DEBUG] __main__:: Requested /
+2023-06-24 15:01:46,068 [DEBUG] __main__:: Requested last image
+2023-06-24 15:01:52,607 [DEBUG] __main__:: Requested capture
+2023-06-24 15:01:53,008 [DEBUG] __main__:: Requested /
+2023-06-24 15:01:53,034 [DEBUG] __main__:: Requested last image
+2023-06-24 15:01:55,927 [DEBUG] __main__:: Requested capture
+2023-06-24 15:01:56,352 [DEBUG] __main__:: Requested /
+2023-06-24 15:01:56,374 [DEBUG] __main__:: Requested last image
+2023-06-24 15:01:58,624 [DEBUG] __main__:: Requested capture
+2023-06-24 15:01:59,042 [DEBUG] __main__:: Requested /
+2023-06-24 15:01:59,071 [DEBUG] __main__:: Requested last image
+2023-06-24 15:02:04,992 [DEBUG] __main__:: Requested capture
+2023-06-24 15:02:05,404 [DEBUG] __main__:: Requested /
+2023-06-24 15:02:05,431 [DEBUG] __main__:: Requested last image
+2023-06-24 15:02:08,591 [DEBUG] __main__:: Requested capture
+2023-06-24 15:02:08,988 [DEBUG] __main__:: Requested /
+2023-06-24 15:02:09,011 [DEBUG] __main__:: Requested last image
+2023-06-24 15:02:12,960 [DEBUG] __main__:: Requested capture
+2023-06-24 15:02:13,348 [DEBUG] __main__:: Requested /
+2023-06-24 15:02:13,376 [DEBUG] __main__:: Requested last image
+2023-06-24 15:02:34,247 [DEBUG] __main__:: Requested capture
+2023-06-24 15:02:34,652 [DEBUG] __main__:: Requested /
+2023-06-24 15:02:34,679 [DEBUG] __main__:: Requested last image
+2023-06-24 15:02:49,206 [DEBUG] __main__:: Requested capture
+2023-06-24 15:02:49,666 [DEBUG] __main__:: Requested /
+2023-06-24 15:02:49,695 [DEBUG] __main__:: Requested last image
+2023-06-24 15:02:50,695 [DEBUG] __main__:: Requested capture
+2023-06-24 15:02:51,219 [DEBUG] __main__:: Requested /
+2023-06-24 15:02:51,360 [DEBUG] __main__:: Requested last image
+2023-06-24 15:02:56,109 [DEBUG] __main__:: Requested capture
+2023-06-24 15:02:56,561 [DEBUG] __main__:: Requested /
+2023-06-24 15:02:56,585 [DEBUG] __main__:: Requested last image

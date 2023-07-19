@@ -1,0 +1,3 @@
+opencv-python>=4.7.0.72
+flask>=2.3.2
+ultralytics>=8.0.121
